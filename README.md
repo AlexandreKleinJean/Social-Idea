@@ -10,7 +10,7 @@ Chaque utilisateur aura sa page de profil avec ses informations associées.
 
 ## Technologies utilisées
 
-- HTML, **CSS** et **JavaScript** pour le développement front-end.
+- HTML, **CSS** et **JavaScript**
 
 ## Contributeurs
 

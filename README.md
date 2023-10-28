@@ -12,6 +12,6 @@ Chaque utilisateur aura sa page de profil avec ses informations associées.
 
 - HTML, **CSS** et **JavaScript**
 
-## Contributeurs
+## Contributeur
 
 - Alexandre Klein a développé ce projet
